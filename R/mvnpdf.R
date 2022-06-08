@@ -7,6 +7,7 @@
 #'  The details
 #'
 #'
+#'
 #' @param x a p x n data matrix with n the number of observations and
 #'p the number of dimensions
 #' @param mean mean vector
